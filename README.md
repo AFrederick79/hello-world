@@ -1,2 +1,3 @@
 # hello-world
-Just another repsoitory
+Just another repository
+Andrea here. Just learning to code for job advancement.
